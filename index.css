@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+.tabela {
+    background-color: black;
+    border-bottom: 6px solid red;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
